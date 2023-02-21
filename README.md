@@ -1,4 +1,6 @@
-# Learning_Path_DevOps
+# Learning_Path_DevOps : Jenkins
+
+Learning Jenkins in two weeks is an ambitious goal, but it is definitely doable. To help you achieve this goal, I've created a learning plan for you, along with links to relevant resources that can assist you in your learning journey.
 
 ### Week 1: Understanding Jenkins and its core concepts
 
